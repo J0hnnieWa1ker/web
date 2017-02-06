@@ -1,0 +1,27 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tissuematter.com" resolutions="1x" timestamp="1486363919726">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4208820138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img_0362.jpg" crc="3863486419" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_0363.jpg" crc="4271689784" seo="true" ref="index"/>
+    <file name="img_0365.jpg" crc="4206666438" seo="true" ref="index"/>
+    <file name="img_0368.jpg" crc="3772626774" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="275044906" seo="true" mt="1486363873044" redirect="true"/>
+</manifest>
